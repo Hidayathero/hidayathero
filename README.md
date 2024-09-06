@@ -4,10 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hidayathero&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidayathero&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="Top Languages" />
 </div>
-<br>
-
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hidayathero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
