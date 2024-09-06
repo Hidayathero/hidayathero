@@ -43,4 +43,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" style="margin-top: 20px;" />
 </div>
 
-### 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hidayathero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
