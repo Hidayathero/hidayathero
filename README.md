@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hidayathero&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidayathero&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="Top Languages" />
-  <img align="right" height="178" src="https://i.pinimg.com/originals/09/08/da/0908da16c8c1a95c0788c255f1718826.jpg" alt="Funny Coding GIF" />
+  <img align="left" height="120" src="https://i.pinimg.com/originals/09/08/da/0908da16c8c1a95c0788c255f1718826.jpg" alt="Funny Coding GIF" />
 </div>
 
 <div align="center">
@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 </div></div>
-<hr>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" style="margin-top: 20px;" />
