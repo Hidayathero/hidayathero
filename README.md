@@ -3,13 +3,20 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hidayathero&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidayathero&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="Top Languages" />
-  
 </div>
+<br>
+
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hidayathero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img align="right" height="220" src="https://i.pinimg.com/originals/09/08/da/0908da16c8c1a95c0788c255f1718826.jpg" alt="Funny Coding GIF" />
 </div>
+
+###
+
+<h2 align="left" style="color: #6a5acd; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> Code & <span style="color: #ff4500;">APP</span></h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -42,6 +49,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 </div></div>
+
+###
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" style="margin-top: 20px;" />
