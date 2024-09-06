@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hidayathero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img align="right" height="220" src="https://i.pinimg.com/originals/09/08/da/0908da16c8c1a95c0788c255f1718826.jpg" alt="Funny Coding GIF" />
+  <img height="220" src="https://i.pinimg.com/originals/09/08/da/0908da16c8c1a95c0788c255f1718826.jpg" alt="Funny Coding GIF" />
 </div>
 
 ###
