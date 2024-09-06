@@ -3,9 +3,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hidayathero&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidayathero&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="Top Languages" />
-  <img align="right" height="150" src="https://i.pinimg.com/originals/09/08/da/0908da16c8c1a95c0788c255f1718826.jpg" alt="Funny Coding GIF" />
+  
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hidayathero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img align="right" height="220" src="https://i.pinimg.com/originals/09/08/da/0908da16c8c1a95c0788c255f1718826.jpg" alt="Funny Coding GIF" />
+</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -43,6 +47,3 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" style="margin-top: 20px;" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hidayathero&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
